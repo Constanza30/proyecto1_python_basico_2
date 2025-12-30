@@ -58,7 +58,7 @@ Durante el proyecto se aplicaron:
 ---
 
 ## 🛠️ Herramientas y tecnologías utilizadas
-1. Python 3
+1. Python 
 2. Jupyter Notebook
 3. Listas y listas anidadas
 4. Funciones personalizadas
